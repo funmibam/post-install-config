@@ -25,6 +25,8 @@ This guide walks through the steps required to configure osTicket for efficient 
 Here's a screenshot of the Admin Panel:
 
 ![Admin Panel Screenshot](images/admin-panel.png)
+<img width="717" alt="Screenshot 2024-10-14 175528" src="https://github.com/user-attachments/assets/f8a8c453-edcb-4ee5-8b49-8b552ac09302">
+
 
 ---
 
@@ -42,6 +44,10 @@ Here’s an example of the **Roles** configuration screen:
 
 ![Roles Screenshot](images/roles-config.png)
 
+<img width="721" alt="Screenshot 2024-10-14 174416" src="https://github.com/user-attachments/assets/fc7ae89a-1bcf-4d8f-8e48-9888338a34cf">
+
+
+
 ---
 
 ### 3. Configure Departments
@@ -57,6 +63,8 @@ Example Departments:
 Here’s a screenshot of the Departments page:
 
 ![Departments Screenshot](images/departments.png)
+<img width="718" alt="Screenshot 2024-10-14 174708" src="https://github.com/user-attachments/assets/ca705008-d07d-43fc-a162-bbe0f1fffc38">
+
 
 ---
 
