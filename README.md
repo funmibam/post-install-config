@@ -42,7 +42,7 @@ Example Role:
 
 Here’s an example of the **Roles** configuration screen:
 
-![Roles Screenshot](images/roles-config.png)
+
 
 <img width="721" alt="Screenshot 2024-10-14 174416" src="https://github.com/user-attachments/assets/fc7ae89a-1bcf-4d8f-8e48-9888338a34cf">
 
