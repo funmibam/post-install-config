@@ -53,7 +53,24 @@ Here’s an example of the **Roles** configuration screen:
 
 
 
+
+
+
+
+
+
 <img width="719" alt="image" src="https://github.com/user-attachments/assets/3afde1af-349e-4afa-9ea3-869378a59e9d">
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +105,31 @@ Here’s a screenshot of the Departments page:
 
 
 
+
+
+
+
+
+
+
+
 <img width="718" alt="image" src="https://github.com/user-attachments/assets/4426e8ee-2741-44c2-bd70-ff39b5dc7ae1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
