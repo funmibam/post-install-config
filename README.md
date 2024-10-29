@@ -47,39 +47,13 @@ Here’s an example of the **Roles** configuration screen:
 <img width="721" alt="Screenshot 2024-10-14 174416" src="https://github.com/user-attachments/assets/fc7ae89a-1bcf-4d8f-8e48-9888338a34cf">
 
 
----
-
-
-
-
-
-
-
-
-
-
 <img width="719" alt="image" src="https://github.com/user-attachments/assets/3afde1af-349e-4afa-9ea3-869378a59e9d">
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
 
 
 <img width="718" alt="Annotation 2024-10-29 200531" src="https://github.com/user-attachments/assets/4468a36c-4a5f-4710-9a64-b2e74f21c0b5">
 
 
----
+
 
 
 ---
@@ -101,35 +75,7 @@ Here’s a screenshot of the Departments page:
 
 
 
-
----
-
-
-
-
-
-
-
-
-
 <img width="718" alt="image" src="https://github.com/user-attachments/assets/4426e8ee-2741-44c2-bd70-ff39b5dc7ae1">
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
 
 
 
