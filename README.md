@@ -48,6 +48,24 @@ Here’s an example of the **Roles** configuration screen:
 
 
 
+
+
+
+
+
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/3afde1af-349e-4afa-9ea3-869378a59e9d">
+
+
+
+
+
+
+<img width="718" alt="Annotation 2024-10-29 200531" src="https://github.com/user-attachments/assets/4468a36c-4a5f-4710-9a64-b2e74f21c0b5">
+
+
+
+
+
 ---
 
 ### 3. Configure Departments
@@ -64,6 +82,21 @@ Here’s a screenshot of the Departments page:
 
 
 <img width="718" alt="Screenshot 2024-10-14 174708" src="https://github.com/user-attachments/assets/ca705008-d07d-43fc-a162-bbe0f1fffc38">
+
+
+
+
+
+
+<img width="718" alt="image" src="https://github.com/user-attachments/assets/4426e8ee-2741-44c2-bd70-ff39b5dc7ae1">
+
+
+
+
+<img width="719" alt="Annotation 2024-10-29 203009" src="https://github.com/user-attachments/assets/cf4eadc3-6951-4b81-9142-7e0bb5159cc5">
+
+
+
 
 
 ---
