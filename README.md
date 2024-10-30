@@ -27,6 +27,11 @@ Here's a screenshot of the Admin Panel:
 
 <img width="717" alt="Screenshot 2024-10-14 175528" src="https://github.com/user-attachments/assets/f8a8c453-edcb-4ee5-8b49-8b552ac09302">
 
+<img width="710" alt="Screenshot 2024-10-30 000047" src="https://github.com/user-attachments/assets/0c4727c9-29e4-4b1e-bfb2-2579cf2b76e7">
+
+<img width="715" alt="Screenshot 2024-10-30 000206" src="https://github.com/user-attachments/assets/4d25116a-3c98-4678-8b49-5c7168f27ce3">
+
+
 
 ---
 
